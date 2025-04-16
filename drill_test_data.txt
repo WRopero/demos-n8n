@@ -1,0 +1,137 @@
+1. Well Design & Drilling Parameters
+Well Count: 12 horizontal wells drilled Q1–Q2 2024
+
+Average Kick‑off Point (KOP): 4,500 ft TVD
+
+Measured Depth (MD): 17,200 ft
+
+Lateral Length: 10,800 ft ± 150 ft variance
+
+Drilling Rate of Penetration (ROP):
+
+Vertical section: 45 ft/hr
+
+Curve section: 30 ft/hr
+
+Lateral: 25 ft/hr
+
+Casing String:
+
+Surface: 13⅜″ @ 55 ppf
+
+Intermediate: 9⅝″ @ 47 ppf
+
+Production: 5½″ @ 20 ppf
+
+Mud System:
+
+Base: potassium chloride brine, 12 ppg
+
+Additives: polymer viscosifier (3 lb/bbl), calcium carbonate bridging (15 ppg)
+
+Total circulation volume: 620 bbl per well
+(Drilling_Operations_Report_Permian_2024.pdf)
+
+2. Completion & Stimulation Data
+Stages per Lateral: 24
+
+Stage Spacing: 450 ft
+
+Fluid Volume per Stage: 1,100 bbl (water + slickwater chemicals)
+
+Proppant Usage: 3,500 lbs/ft of lateral
+
+Total Proppant per Well: 37 million lbs
+
+Chemical Additives:
+
+Friction reducer: 1.2 gal/kgal
+
+Scale inhibitor: 0.8 lb/kgal
+
+Biocide: 0.5 lb/kgal
+
+Bottom‑Hole Pressure (BHP) at Peak Pumping: 10,200 psi
+
+Propped Fracture Half‑Length (microseismic): 250 ft ± 20 ft
+(Completion_Statistics_RegionA_2024.pdf)
+
+3. Produced Fluids & Flowback
+Initial Flowback (first 7 days):
+
+Volume: 600 bbl/day → 380 bbl/day by day 30
+
+Water cut: 85 % → 60 % by day 30
+
+Fluid Recovery Efficiency: 72 % of injected fluid recovered
+
+Recycling Rate: 35 % of flowback reused in next pad
+
+Produced Gas Rates:
+
+Day 1–30 avg: 2.3 MMcf/d/stage
+
+Day 31–90 avg: 1.2 MMcf/d/stage
+
+Decline exponent: 0.28
+
+Cumulative Gas (90 days): 80 Bcf per well
+(Flowback_and_Recycling_Q2_2024.pdf)
+
+4. Water Quality & Chemistry
+
+Parameter	Min	Max	Units
+Total Dissolved Solids	38,500	72,100	mg/L TDS
+pH	7.1	7.8	—
+Chlorides	22,000	41,000	mg/L
+Barium	15	28	mg/L
+Strontium	180	250	mg/L
+Radioactivity (Ra‑226)	2.5	4.1	pCi/L
+(WaterChem_Report_FieldB_2023.pdf)			
+5. Environmental & Emissions Metrics
+Methane Emissions:
+
+Average slip: 0.52 kg CH₄/Mcf produced
+
+Fugitive rate (pad‑wide): 0.15 kg CH₄/hr
+
+VOC Emissions: 1.8 tons/day per pad
+
+Noise Levels:
+
+Peak (pumping): 88 dB(A) @ 50 m
+
+Average (drilling): 75 dB(A) @ 100 m
+
+Seismicity Monitoring:
+
+Events ≥ M1.0: 4 per quarter
+
+Max event M1.8, 2 km from central well
+(Environmental_Impact_Assessment_2022.pdf)
+
+6. Economic Indicators
+Capital Expenditure (CAPEX) per Well: $9.2 million
+
+Operating Expenditure (OPEX): $0.65 per Mcf
+
+Breakeven Price: $2.90 per Mcf
+
+Net Present Value (NPV): $4.5 million @ 10 % discount
+
+Internal Rate of Return (IRR): 19 %
+(Economic_Analysis_Permian_2024.pdf)
+
+Simulated PDF References
+
+Drilling_Operations_Report_Permian_2024.pdf — http://example.com/reports/Drilling_Operations_Report_Permian_2024.pdf
+
+Completion_Statistics_RegionA_2024.pdf — http://example.com/reports/Completion_Statistics_RegionA_2024.pdf
+
+Flowback_and_Recycling_Q2_2024.pdf — http://example.com/reports/Flowback_and_Recycling_Q2_2024.pdf
+
+WaterChem_Report_FieldB_2023.pdf — http://example.com/reports/WaterChem_Report_FieldB_2023.pdf
+
+Environmental_Impact_Assessment_2022.pdf — http://example.com/reports/Environmental_Impact_Assessment_2022.pdf
+
+Economic_Analysis_Permian_2024.pdf — http://example.com/reports/Economic_Analysis_Permian_2024.pdf
